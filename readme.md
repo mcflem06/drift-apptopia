@@ -4,6 +4,7 @@
 <p>With this bot, users can enter an app name on our site and see a 'taste' of our data.</p>
 <h3>Gotchas</h3>
 <p>This was a weekend project. As such, the code could use some cleaning and there are unecessary modules. </p>
+<p>We host this on heroku, but I pulled all the random stuff from this repo (requirements / runtime, procfile etc...)
 <h3>Future</h3>
 <ul>
   <li>We will add error handling ('couldn't find an app' etc...)</li>

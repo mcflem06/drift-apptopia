@@ -7,7 +7,7 @@
 <h3>Future</h3>
 <ul>
   <li>We will add error handling ('couldn't find an app' etc...)</li>
-  <li>Hopefully, if we can pick up button_action events, we'll redo the hack we use to get app selection</li>
+  <li>Hopefully, if we can pick up button_action events, we'll redo the hack used to get app selection</li>
   <li>We'll end up setting up a worker at some point. We're not crushed by traffic, so the server can handle pretty much everything.</li>
   </ul>
 

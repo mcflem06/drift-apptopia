@@ -9,10 +9,7 @@ from bson.json_util import loads, dumps
 import os
 from flask_sslify import SSLify
 from flask_cors import CORS, cross_origin
-import urlparse
 import pandas as pd
-from datetime import date, datetime, timedelta
-import uri
 from buckets import Buckets
 from pandas.io.json import json_normalize
 
